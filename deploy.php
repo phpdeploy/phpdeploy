@@ -7,7 +7,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 try {
-    \Deploy\Core\Deploy::startWithScenarios(
+    \Deployer\Core\Deploy::startWithScenarios(
         //... instances
     );
 } catch (\Exception $exception) {

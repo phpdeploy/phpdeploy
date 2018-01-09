@@ -1,6 +1,6 @@
 <?php
 
-namespace Deploy\Core;
+namespace Deployer\Core;
 
 use Deploy\Scenario\BaseScenario;
 use Symfony\Component\Console\Application;

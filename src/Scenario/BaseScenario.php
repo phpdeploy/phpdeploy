@@ -1,6 +1,6 @@
 <?php
 
-namespace Deploy\Scenario;
+namespace Deployer\Scenario;
 
 use Symfony\Component\Console\Command\Command;
 
